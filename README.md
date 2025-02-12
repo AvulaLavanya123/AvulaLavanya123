@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lavanya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avulalavanya123&label=Profile%20views&color=0e75b6&style=flat" alt="avulalavanya123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avulalavanya123" alt="avulalavanya123" /></a> </p>
